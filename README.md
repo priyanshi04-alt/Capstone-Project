@@ -162,7 +162,7 @@ Since we are not using LLMs, evaluation is done via:
 
 ## 🙌 Contributors
 
-**Priyanshi **  
+Priyanshi   
 Kaggle User – Agents Intensive 2025
 
 ---
