@@ -1,0 +1,16 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / temp files
+.DS_Store
+*.swp
+*.temp
+
+# JSON / tokens
+*.json
