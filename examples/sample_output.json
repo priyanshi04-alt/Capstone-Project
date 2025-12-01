@@ -1,0 +1,23 @@
+{
+  "user_profile": {
+    "age": 22,
+    "gender": "female",
+    "weight": 58,
+    "height": 160,
+    "goal": "weight loss and toning",
+    "diet_preference": "vegetarian",
+    "workout_days": 4
+  },
+  "diet_plan": {
+    "breakfast": "Oats with chia seeds, fruits, and almond milk",
+    "lunch": "Vegetable dal khichdi + salad",
+    "dinner": "Paneer stir fry + multigrain roti",
+    "snacks": "Green tea + nuts"
+  },
+  "workout_plan": {
+    "day1": "Lower body strength + 10 min HIIT",
+    "day2": "Yoga for flexibility + core",
+    "day3": "Upper body workout",
+    "day4": "Full-body cardio session"
+  }
+}
